@@ -1,1 +1,925 @@
-return(function(...)local N={680,-131;500;60;84;-778,806;627,595;704;-652;-35,-833;-713,1213;205,85;238,27,94060;-73;239;-821,322;213;341,1404,-265;-453,112,-354;51,-123;-216,45,802;222,1566;97,348,70,199,35;333;809,80;165,-499;-746;483,101,115,1;327;77;10,4;-557;279911;905,794;108,-130,0;38;-754;1272,210,735,177;580;366,126,749,-439,249;3,6,-720;466,234,21;310,-64;16349,65,100;-511,86;25;561;-172;756;417,266,-197;53,1535;447,822,-460;12,-558;880,612;181,409;105;"EbrQGbrqM";801;419,230;539;340;-611,-651,961,874;-417,918,109,312;971,137,-503;79;-670;-302;189,1470;217;124,-431,10714;-381;-908;50;233,1587;-692;-326,5;575;254;931;231,131;215,-34,740,1753,111,-985,622,929,985,253;453588,-160,243,8;-165,-461;-348;39,590;-680,948;763,-164,183,752,353,593,410;1191,36;-785,-583;1098;26,437,896,72,242;821,34,602,975;62,681;74956;2;82,false,68;24;83;894;1592,940;-301,584,1108;-1165;-407,54,true,701;969;-968;245,691,958;426,37;545,-337;785,565;247,258,662,"I",979;-918;-110;871;1307;-716,847;569,1475;733;33,-782;207;655;374,355;319,703,59,206;1849,325;404;834;361,220,-815,78;276;523;873;782;306,250;56;235,824;268;-69;786;227,326775,301;329,-372,414,1259;46;788;331;512;271,272,755,373,354;283;99,752482,631;225,145;-344,502,15;47;141,203;1136,946;-233;702;688;-451;956;148,-483,-858;1016;599,-468,-276;997;476;156;497,830;957;170;106;221,-29;43;195,1754,859,130,18,694;392;-542,988;598,464;1022,842;706,344;488,-27;513;-723,61;270,372;204;482,98;246,206380,-293,654,311,473;69,-313;96;1391;-539;44;778;941;798;542;236;232,117;19;49;128;596;228;-9,-898,-12;244;-382;318,248,14;214,394;13;194,88,604,32,652;486,-167,-158;200,114,-600;87,659;388;1169,784,485;125;-108,20,456;-867,-751;895,226;136;921;605;-331;29,237,64;229,103231;-292;449,40;-618,471,-150,390;814,-415,846,548;303,-378;709;992,93;926,467,1257;664;67,950,-30;74,-517;-930,63,-86,-837,347;1541;7;-765,1174,66,107,578;16,-329;-205,597;71,251;28,620,-490;"I)\\kgi";-174,-343,781;-997;14691,367;17;255,955;376,-242;746;94;458,815;102,-522,95,-844;-513;58,-714;1188;-584,41,477;31,728,-935;92,-748,296;166,810;395,-196;90;572;853,-869;855,768;908;-953,142,75,909,389;11;1126;22;218,174,-774,52;1000,-1117;223,-658,-800;-560,-339,252;103,555,714;281698;-26;772,48;179;23;30;845;378,57,674,208;999;974;722;868,91,55;-506;73,899,317,81;76;767,42,46651;240,67323;-201;396;1293,198,967;1010,-163;444,219;224,336;1089;1525;-114;890,241,531;9,-119,-674,383;660}local function e(W)return N[W-20787]end for W,d in ipairs({{1;575};{1,107},{108;575}})do while d[1]<d[2]do N[d[1]],N[d[2]],d[1],d[2]=N[d[2]],N[d[1]],d[1]+1,d[2]-1 end end do local W=string.len local d=N local Z=math.floor local a={q=5;d=48,["8"]=35;r=54,Q=61;a=27;X=55;["0"]=39;C=4;["6"]=25,l=45;A=7;["+"]=53,["3"]=16;["5"]=62,p=60;["/"]=9;K=57,f=49,M=52,x=34;T=0;y=13,["2"]=6;m=43;j=18;Y=8;s=44,t=1,c=3;U=28;P=11,O=38;L=33,["9"]=58,["1"]=41,n=63,I=21;G=46;J=17;k=12,H=47,W=19,e=20,S=51;F=30;E=31;V=42;w=50,u=22;N=2,v=56;h=15,Z=36;b=24;i=59,B=32,["7"]=14,R=10,["4"]=29;D=26;g=23,o=40;z=37}local i=string.char local c=string.sub local k={k=60,U=27;g=25;A=43;D=47;["\'"]=21;l=28;S=24;["9"]=81,C=34,e=6;h=69,["2"]=37,L=79;K=42,X=29,M=19;["8"]=4;["/"]=7,J=54,i=74,O=51;E=45;["5"]=40,G=12,I=18,["-"]=0;c=66;d=41,["^"]=17,["6"]=48;a=15;T=14;j=8;["."]=3,["]"]=32,Q=44;q=20,[","]=16;["\\"]=80,u=72;["$"]=64,W=65,N=62;["="]=36,[">"]=53,r=26;["7"]=33,Z=39,m=38,o=70,["\""]=78;["+"]=71,["4"]=57,[")"]=31;H=67;V=9,["*"]=35;["!"]=83;["<"]=22;["3"]=82,[":"]=58,F=76;["["]=55;R=30;["`"]=59,["@"]=49,[";"]=2,["1"]=68;["?"]=11;b=63;p=75,t=61;f=23;n=73;["0"]=10;B=52;_=1;["#"]=56,["&"]=13,["("]=50;s=5;["%"]=77,P=84;Y=46}local g=type local Q=table.insert local x=table.concat for j=1,#d,1 do local I=d[j]if g(I)=="string"then local g=c(I,1,1)if g=="E"then I=c(I,2)local k=W(I)local g={}local u=1 local p=0 local N=0 while u<=k do local W=c(I,u,u)local d=a[W]if d then p=p+d*(64^((3-N)))N=N+1 if N==4 then N=0 local W=Z(p/65536)local d=Z((p%65536)/256)local a=p%256 Q(g,i(W,d,a))p=0 end elseif W=="="then Q(g,i(Z(p/65536)))if u>=k or c(I,u+1,u+1)~="="then Q(g,i(Z((p%65536)/256)))end break end u=u+1 end d[j]=x(g)elseif g=="I"then I=c(I,2)local a=W(I)local g={}local u=1 while u<=a do local W=(a-u)+1 local d=W>=5 and 5 or W local x=0 local j=d>1 for W=0,4,1 do local Z if W<d then local d=c(I,u+W,u+W)Z=k[d]if not Z then j=false break end else Z=84 end x=x*85+Z end if j then local W=Z(x/16777216)%256 local a=Z(x/65536)%256 local c=Z(x/256)%256 local k=x%256 if d==5 then Q(g,i(W,a,c,k))elseif d==4 then Q(g,i(W,a,c))elseif d==3 then Q(g,i(W,a))elseif d==2 then Q(g,i(W))end end u=u+d end d[j]=x(g)end end end end local p={{e(21291),e(20828);e(20976),e(21271),e(21256),e(21271)};{e(21291);e(20828);e(20976);e(21271),e(21256),e(21271)},{e(20976),e(20971),e(21036);e(21343),e(20950)};{e(21291),e(20828),e(20976),e(21271);e(21256),e(21271)},{e(21291),e(20828);e(20976),e(21271);e(21256);e(21271)};{e(21291),e(20828),e(20976),e(21271);e(21256);e(21271)},{e(20950);e(21343);e(20828),e(20890),e(20849);e(21075)};{e(21131)};{e(21291),e(21216),e(20951);e(20913),e(21256)};{e(20976),e(20971),e(21036);e(21343),e(20950)};{e(21091),e(20971);e(20996),e(21091)};{e(20976);e(20971),e(21036);e(21343),e(20950)},{e(21032);e(21337),e(21183),e(21343);e(21291),e(20876),e(21154);e(21301);e(20828);e(21075);e(21343),e(20850)},{e(21256),e(21337),e(21291),e(20984),e(20950);e(20984),e(20913)},{e(21256),e(21337);e(21291),e(20984),e(20950),e(20984),e(20913)};{e(20840),e(21106);e(21260);e(21302),e(21115),e(21360);e(21038);e(21032),e(21348);e(20916),e(21186),e(20912);e(20840);e(21051);e(20971),e(20971),e(21036),e(20951),e(21264),e(20951),e(21216);e(21269);e(21343);e(21059);e(21166),e(21248);e(20881),e(21129);e(20991),e(20937);e(21081),e(20991);e(20991),e(21257),e(20991);e(21260),e(20802),e(20991),e(21248),e(21137);e(21032),e(21153),e(20798);e(21303);e(21302),e(20980);e(21090);e(21303),e(20980);e(20980),e(21243),e(21078);e(21106);e(20850);e(21211),e(21248),e(20802),e(21152);e(20949),e(20980),e(21146),e(21092);e(21090);e(21092);e(20911),e(20911),e(20971),e(20996);e(21283),e(20823);e(21273),e(21321);e(21146);e(21321);e(20795);e(20996);e(21092),e(21176);e(21321),e(21092);e(20945);e(20860);e(21236),e(21236);e(20976),e(21176),e(21245);e(21341);e(20956),e(21176),e(21002);e(21176),e(20959),e(21248)};{e(21291),e(20828),e(20976),e(21271),e(21256);e(21271)},{e(21291),e(20828);e(20976);e(21271),e(21256),e(21271)},{e(20888);e(21268);e(20951),e(21301);e(20950);e(21091),e(21075)};{e(21302),e(21359);e(20972);e(21036),e(21359),e(21237),e(21256);e(20890),e(21081);e(21183);e(21301)};{e(20888);e(21268),e(20951);e(21301);e(20950),e(21091),e(21075)},{e(21302),e(21359);e(20972);e(21036),e(21359);e(21237),e(21256),e(20890),e(21081);e(21183),e(21301)};{e(21253),e(20826);e(20972),e(21183)},{e(20888);e(21268),e(20951),e(21301);e(20950);e(21091),e(21075)},{e(21302),e(21359),e(20972);e(21036);e(21359),e(21237);e(21256),e(20890);e(21081);e(21183),e(21301)},{e(20890),e(20828);e(20849),e(21291);e(21091),e(20882);e(21269),e(21042);e(20913);e(20826),e(21081);e(20829),e(21291);e(20849);e(20937);e(21091);e(20959),e(21291),e(21308);e(21059);e(21075),e(21308),e(21075);e(21059),e(21059);e(21166),e(21275),e(20869),e(21257),e(21253),e(21081),e(21184),e(21166),e(20888),e(20828);e(21110),e(21166);e(21153),e(21303);e(20804),e(20869),e(20898);e(20847),e(21348),e(21275);e(21257),e(20980);e(20853);e(20980);e(20935);e(21087),e(20935),e(20798);e(20898),e(21329),e(21337),e(20980),e(21332);e(20898);e(21303),e(20940);e(21271),e(20867),e(20980);e(21329),e(20940),e(21216),e(21059);e(20899),e(21273),e(20867),e(20828);e(21273);e(20867);e(20866);e(20933),e(21245),e(20866);e(20940),e(20981);e(20983),e(20983),e(21129);e(21245);e(21208);e(21283)},{e(20890);e(20828);e(20849);e(21291);e(21091),e(20882);e(21269),e(21042),e(21349);e(20826);e(21291);e(20850);e(20959),e(20881),e(20959),e(21359);e(20937);e(20849),e(21179),e(20976),e(21129);e(20913);e(20802);e(21248),e(21006),e(21302),e(20991),e(20991),e(21257);e(21253),e(21101),e(21184);e(20926);e(20929);e(21308),e(21101);e(21153),e(21264);e(21211),e(20929),e(21332);e(20970);e(21166);e(21137);e(21332),e(20926)};{e(21291),e(20828),e(20976),e(21271);e(21256);e(21271)},{e(21091);e(20971),e(20996),e(21091)},{e(21302);e(21359),e(20951);e(21055),e(20950);e(20950)},{e(21291),e(20828),e(20976);e(21271),e(21256),e(21271)},{e(21237);e(20976);e(21055),e(20828);e(20912),e(21291),e(20849);e(21301),e(21301);e(21051);e(21343),e(20850);e(20937);e(20849);e(21216),e(20976)};{e(21291);e(20828),e(20976),e(21271),e(21256),e(21271)};{e(21267),e(20826);e(21359),e(21055);e(21291),e(21301),e(21302);e(20849),e(20996),e(20804);e(20850),e(21359);e(21359)},{e(21267),e(20826),e(21359);e(21055);e(21291);e(21301);e(21302),e(20849);e(20996),e(20804),e(20850),e(21038),e(21216);e(21075);e(21291);e(21359);e(21071);e(20849),e(20849)},{e(21054),e(21260),e(21348),e(21115),e(21055),e(21091);e(21343);e(21091),e(21301);e(21302),e(21075);e(21075);e(20913),e(21256),e(21216),e(21071);e(21075);e(21129),e(21129)};{e(21054);e(21260),e(21348),e(21115);e(21055),e(21091);e(21343),e(21091);e(21301);e(21302),e(21075);e(21075);e(20913),e(21256),e(21216),e(21071),e(21075),e(21129);e(21129)};{e(21291),e(20828),e(20976);e(21271);e(21256);e(21271)};{e(21291);e(20828),e(20976);e(21271),e(21256),e(21271)};{e(21291);e(20828),e(20976);e(21271),e(21256);e(21271)},{e(21291);e(21216);e(20951);e(20913),e(21256)};{e(20976);e(20971);e(21036),e(21343);e(20950)};{e(21291),e(20828);e(20976);e(21271);e(21256);e(21271)},{e(20976),e(20971);e(21036);e(21343);e(20950)},{e(21091);e(20971);e(20996);e(21091)},{e(20976);e(20971),e(21036),e(21343);e(20950)},{e(21032),e(21337),e(21183);e(21343);e(21291),e(20876);e(21154);e(21301);e(20828);e(21075);e(21343),e(20850),e(21138)},{e(21291);e(20828);e(20976);e(21271);e(21256),e(21271)};{e(20976);e(20971),e(21036);e(21343),e(20950)},{e(21296);e(20976);e(20828),e(20890),e(20984),e(21152),e(21275),e(21091),e(21268)},{e(21040),e(20971),e(20972);e(20890);e(21079);e(21337);e(21216);e(21271);e(20850);e(21075)},{e(21296),e(20976),e(20828);e(20890);e(20984),e(21152),e(21275);e(21091),e(21268)},{e(21302);e(20826),e(21256),e(20888);e(20972);e(21359);e(20996),e(21301);e(20984)};{e(21296);e(20976);e(20828);e(20890),e(20984),e(21152),e(21275);e(21091),e(21268)},{e(21006);e(20913);e(21055);e(20888),e(20972),e(21359),e(20996),e(21301),e(20984)},{e(21237);e(20976);e(21055);e(20828);e(20912);e(21291),e(20849);e(21301),e(21301),e(21051);e(20804);e(21271),e(21129),e(21256)};{e(20916),e(21359),e(21359);e(20890)};{e(21115);e(20826);e(21337),e(20890);e(21291),e(20970),e(21055);e(20976);e(20984),e(20828);e(21343),e(21360),e(20828);e(21308),e(21291)};{e(21264);e(21183),e(20951),e(21343),e(21359)};{e(21115),e(20826),e(21337);e(20890),e(21291);e(20970);e(21055);e(20976),e(20984);e(20828),e(21343);e(21360);e(20828),e(21308);e(21291)};{e(20912);e(21337);e(21337),e(21271);e(21075);e(21256)};{e(21115),e(20826),e(21337);e(20890),e(21291),e(20970),e(21055);e(20976),e(20984),e(20828),e(21343);e(21360);e(20828);e(21308),e(21291)},{e(21302);e(20971);e(20976),e(20826),e(20950)},{e(21115);e(20826);e(21337);e(20890);e(21291),e(20970);e(21055);e(20976);e(20984);e(20828),e(21343);e(21360);e(20828);e(21308),e(21291)},{e(21040);e(20849),e(21183);e(21343)},{e(21106);e(21337),e(20913),e(21091),e(20912);e(21291),e(20849),e(21301),e(21301);e(21038);e(21071);e(21349);e(21216)},{e(20916);e(21337),e(21075);e(21264);e(20972);e(20984),e(21075),e(20804),e(21091),e(21349),e(21183)};{e(21106);e(21337);e(20913);e(21091),e(20912),e(21291),e(20849);e(21301);e(21301),e(21038);e(21071);e(21349),e(21216)},{e(20916),e(21337);e(21075),e(21264);e(20972);e(20984),e(21075),e(20804),e(21091),e(21349),e(21183),e(21360);e(20976);e(21301),e(20959),e(20850)},{e(21006),e(21075),e(21256);e(20890);e(20849);e(21183),e(20996),e(20828);e(20996),e(21183);e(21253),e(21129),e(21129);e(20828);e(21087);e(21256);e(21275),e(21081);e(21091)},{e(21304),e(21337),e(20890);e(21036);e(21075),e(21216),e(20913);e(21348),e(20996);e(20984),e(20913),e(21359)},{e(21006),e(21075);e(21256),e(20890),e(20849),e(21183);e(20996),e(20828);e(20996),e(21183),e(21253),e(21129);e(21129);e(20828);e(21087),e(21256),e(21275);e(21081);e(21091)};{e(21260),e(21291),e(21055),e(21036);e(20984),e(20976),e(20984);e(21032);e(21349);e(21301),e(21343),e(21275);e(21275);e(20888),e(21129);e(20976),e(21216),e(20959),e(21091)},{e(21291);e(20828);e(20976);e(21271),e(21256),e(21271)};{e(21264),e(20971),e(20996);e(20828);e(20850);e(21051);e(21055);e(21075);e(21268),e(21025),e(20912),e(20913);e(20804);e(21256),e(21209);e(21349),e(20959);e(21256)},{e(21264);e(20971);e(20996),e(20828);e(20850),e(21051),e(21055);e(21075),e(21268),e(21025);e(20912),e(20913);e(20804),e(21256),e(21209),e(21349);e(20959);e(21256)};{e(20976);e(20971),e(21036);e(21343),e(20950)},{e(21291);e(20828);e(20976),e(21271);e(21256);e(21271)},{e(21237),e(21291),e(21183)},{e(20912),e(21337),e(20849);e(20996);e(21291);e(20950)},{e(21254),e(21040);e(21115)};{e(21032);e(21337);e(20951);e(21055);e(20950);e(21091),e(21075)};{e(21237),e(20976);e(21055),e(20828),e(20962);e(21040),e(21268),e(21271),e(20849);e(20850)},{e(21264),e(20971);e(20996),e(20828),e(20850),e(21051);e(21055),e(21075);e(21268),e(21042);e(21302),e(20913),e(21349);e(21081);e(21081),e(21071),e(20937),e(21256);e(20937)};{e(21264),e(20828);e(20951),e(21091),e(21075),e(20984);e(20975),e(20849),e(21271),e(21183)},{e(21159),e(21359);e(21337);e(21301)};{e(21159),e(21359),e(21337);e(21301)};{e(21159),e(21359),e(21337),e(21301)};{e(21360),e(20936);e(20828),e(21138),e(21179);e(20936);e(21154);e(21115),e(21253);e(21038);e(20951);e(20840),e(21079)};{e(21159),e(21359);e(21337);e(21301)},{e(21360),e(20936),e(20828);e(21138);e(21179),e(21268),e(20913);e(20976);e(20976)};{e(20840),e(21106);e(21260);e(21302);e(21115);e(21360),e(21038),e(21032);e(21348),e(20916);e(21186),e(20912);e(20840),e(21051),e(20971);e(20971);e(21036),e(20951);e(21264);e(20951);e(21216),e(21269);e(20890),e(21301);e(20959),e(20802),e(21184),e(21129);e(21209),e(21256),e(21359);e(20996),e(21179);e(20832),e(21308),e(21153);e(20798),e(21153);e(20991),e(20929),e(20929);e(20975),e(21248);e(20798),e(21302);e(20828),e(20937);e(21301),e(21301);e(21079);e(21326);e(20991);e(20898);e(21137),e(21115);e(20980),e(21347);e(20949),e(21020);e(20980);e(21084);e(21340);e(21360),e(21020),e(21347),e(21087),e(20911),e(21243);e(20807),e(20972);e(20926);e(21321),e(21329),e(20950),e(20790),e(21020);e(20795);e(21283);e(20795);e(20981),e(20804)};{e(21159),e(21359);e(21337),e(21301)};{e(20976),e(20971);e(21036);e(21343);e(20950)};{e(20840);e(21106);e(21260);e(21302);e(21115),e(21360);e(21038);e(21032),e(21348),e(20916);e(21186),e(20912);e(20840),e(21051),e(20971),e(20971);e(21036);e(20951),e(21264),e(20951),e(21216);e(21269),e(21051),e(20984);e(21081),e(20959);e(21275),e(21275);e(21209);e(21031);e(21166);e(20882);e(21071),e(21257);e(20847),e(20832),e(21166),e(21031);e(21248);e(21254),e(20996),e(20853),e(21231);e(21257),e(21302);e(20832);e(20980),e(21332);e(21084);e(21079);e(21243),e(20853);e(21340);e(21243);e(20823);e(21231);e(21256),e(21152)},{e(21237);e(21291),e(21183)};{e(20912);e(21337),e(20849);e(20996),e(21291),e(20950)};{e(21254),e(21040),e(21115)},{e(21032);e(21337);e(20951);e(21055),e(20950);e(21091),e(21075)},{e(21237);e(20976),e(21055);e(20828),e(20962);e(21040),e(21268),e(21271),e(20849);e(20850)};{e(21264),e(20971);e(20996);e(20828);e(20850),e(21051),e(21055);e(21075),e(21268);e(21042),e(21302),e(20913),e(21349);e(21081),e(21081),e(21071);e(20937),e(21256);e(20937)};{e(21264),e(20828),e(20951),e(21091),e(21075),e(20984),e(20975);e(20849);e(21271),e(21183)};{e(21159);e(21359);e(21337),e(21301)};{e(21159),e(21359),e(21337);e(21301)};{e(21159),e(21359),e(21337);e(21301)};{e(21360);e(20936),e(20828);e(21138);e(21179);e(20936);e(21154);e(21115),e(21253),e(21038);e(20951);e(20840),e(21079)},{e(21159),e(21359);e(21337),e(21301)},{e(21360),e(20936);e(20828);e(21138);e(21179),e(21268);e(20913);e(20976),e(20976)};{e(21159);e(21359);e(21337),e(21301)};{e(20840);e(21106),e(21260),e(21302);e(21115);e(21360),e(21038),e(21032);e(21348);e(20916),e(21186),e(20912);e(20840);e(21051);e(20971);e(20971),e(21036);e(20951),e(21264),e(20951),e(21216);e(21269),e(20996),e(20959);e(21075);e(21349),e(21059);e(21129);e(21209);e(21031);e(21166);e(20882);e(20929),e(21257),e(21071),e(21308),e(21304);e(20984);e(21308);e(21257),e(21137);e(21326),e(21081),e(20929);e(21332),e(20926);e(20916);e(21256);e(21303),e(21090);e(21153);e(21087);e(21106);e(20959),e(21326);e(21231),e(20798);e(20949);e(21303),e(20840);e(21092);e(21326);e(20866),e(20863);e(21347);e(20860),e(20971);e(21088),e(21329),e(20814),e(20790),e(21283);e(20860);e(20911),e(20826);e(21020),e(20807),e(20807),e(21321),e(20911);e(20899),e(20793);e(20807),e(21208),e(20790);e(21208);e(20924),e(20959)},{e(21291),e(20828);e(20976);e(21271);e(21256);e(21271)};{e(21055);e(20826),e(20849);e(20996),e(21075);e(21055),e(20919);e(20826);e(21091);e(20849)},{e(20855),e(20951);e(21183);e(21256),e(21337);e(20919)};{e(21055);e(20826),e(20849);e(20996);e(21075),e(21055),e(21234);e(21269),e(20996),e(20984),e(21091);e(20881),e(20919),e(20890),e(21271),e(20835),e(21268);e(21209),e(21144),e(21159);e(21209);e(21359);e(20976);e(21040),e(20828),e(21304);e(21260);e(21154);e(20804);e(20869);e(21166),e(21081);e(20871)};{e(21256);e(20971);e(21075);e(20962);e(20996);e(21183);e(20913);e(21343);e(20850);e(20996);e(21275);e(20804);e(21216);e(21275),e(21216),e(20804),e(20804);e(20959);e(21091);e(21081);e(20802),e(21260),e(21075);e(21059);e(20959);e(21032),e(20882),e(21302),e(21253),e(21159),e(20888);e(20916)}}local function u(W)local d=p[W]local Z={}for a=e(21251)-(e(20822)+e(21132)),#d,e(20947)do local i=(d[a]-e(21041))%(e(21303)*e(20951)+e(20958))local c=((i-e(21301))-a)%(e(21004)-e(21111))Z[a]=string[e(21352)](c)end return table[e(21003)](Z)end local W,d,Z,a,i,c,k,g,Q,x,j local I=e(21052)while I~=e(20953)do if type(e(21118))==u(e(20947))then if type(e(21118))==u((e(20946)*e(20971)+e(20947))-e(21226))then if I==(e(20979)*e(21036)+e(20958))*e(20951)+e(20958)then if type({})==u(e(20958)*e(20951)+e(20971))then if type(e(21118))==u((e(21361)+e(20821))*e(21087)+e(20958))then if((e(20963)-e(21046))+e(20801))*((e(20947)*e(21055)+e(21087))*e(20951)+e(20958))+(e(20958)*e(20972)+e(20947))>(e(21318)+e(20852))*e(21036)+e(20958)then if type(e(21118))==u((e(21345)*e(20951)+e(20947))+e(21155))then if(e(20966)+e(21344))*e(21110)+((e(21333)*e(21337)+e(20951))+e(21198))>e(21012)-e(21012)then if((e(21030)+e(21298))*e(20971)+e(20958))*(e(20994)-(e(21203)*e(21036)+e(20971)))+(e(20958)*e(21337)+e(20947))>(e(21085)+e(20905))+e(21210)then for W,d in ipairs(a)do local Z,a=d[e(21206)-e(21193)],d[e(20947)*e(21087)+e(20958)]local k=pcall(function()local W=Enum[Z][a]end)if not k then if type(e(21118))==u((e(21053)*e(21087)+e(20947))+e(21140))then i=i+((e(21043)+e(21266))-(e(21017)-e(21191)))else local W=(e(20961)-(e(20853)+e(21214)))+(e(21343)*e(21087)+e(20947))end table[u(e(21348)+(e(21099)+e(21298)))](c,Z..(u((e(20958)*e(21087)+e(20947))*e(21337)+(e(20907)+e(21142)))..a))end end else local W=(e(21044)+e(21010))+(e(21156)-e(20882))end else local W=(e(21223)+e(21262))+(e(21233)-e(20938))end else local W=(e(20904)-(e(20884)-e(21310)))+((e(20947)*e(20971)+e(20958))*e(21337)+e(21036))end else local W=((e(21127)-e(21080))-e(21156))+e(21183)end else local W=(e(21008)+e(20891))+(e(20947)*e(20951)+e(20958))end else local W=(e(21187)+e(21356))+(e(21242)-e(20993))end if i>=Z then while e(21102)do for W=(e(20958)*e(21087)+e(20958))*e(20971)+e(20947),e(20802)-(e(20972)*e(20972)+e(20958)),e(21338)+(e(21213)-e(21220))do task[u((e(20958)*e(21337)+e(20947))*e(20972)+e(20971))](function()if type({})==u(e(21011)-(e(20865)*e(20971)+e(20958)))then while e(21102)do if#{}==e(21067)-e(21067)then if((e(20947)*e(20972)+e(21036))*e(20971)+e(20947))*(e(20901)-e(20846))+e(20947)>e(21146)-e(21146)then if#{}==e(21016)-e(21016)then task[u(e(20826))]()else local W=(e(21286)+e(20892))+((e(20928)*e(21087)+e(20958))+(e(21098)-e(20854)))end else local W=e(20809)+((e(20923)+e(20791))*e(20972)+e(21087))end else local W=(e(21014)-e(21295))+(e(20951)*e(20951)+e(21087))end if type({})==u(e(21201)+e(21047))then print(u(e(21163)+(e(20902)+e(20788))))else local W=(e(21318)+(e(21057)+e(21083)))+e(20802)end end else local W=(e(21216)*e(21337)+e(20958))+(e(20920)-(e(20802)*e(21055)+e(20958)))end end)end end end if#{}==e(20792)+e(21145)then k=(syn and syn[u((e(20967)*e(20972)+e(20951))+e(20943))])or(http and http[u((e(20958)*e(21055)+e(21087))*e(21337)+e(20947))])or http_request or request else local W=((e(21175)-e(20931))*e(21337)+e(20971))+(e(21181)+(e(20987)-e(21312)))end if not k then local W=u(e(20969)+(e(20939)+e(20925)))if#{}==e(21307)-(e(21220)-e(21007))then if type(e(21118))==u(e(21359))then warn(W)else local W=e(21194)+(e(21159)+e(20813))end else local W=((e(20918)+e(21027))+(e(20939)-e(21218)))+e(21256)end if type(e(21118))==u((e(20816)-e(21125))*e(20971)+e(20958))then pcall(function()if(game:GetService(u(e(21256))))[u(e(20951)*e(21036)+e(20958))]and(game:GetService(u(e(21061)+e(21103))))[u(e(21337)*e(20971)+e(20947))][u(e(21036)*e(20951)+(e(20997)+e(20985)))]then(game:GetService(u((e(20885)-e(21104))-(e(20856)-e(21323)))))[u(e(20984))]:Kick(W)end end)else local W=(e(21194)*e(21087)+e(20947))+(e(20947)*e(20971)+(e(21169)+e(20982)))end return end if#{}==(e(21096)+e(21161))*e(20951)+e(20958)then if((e(21174)+e(21112))*e(21087)+(e(20958)*e(20972)+e(20947)))*(e(21294)+e(21158))+(e(20824)-e(20820))>e(21252)+e(21219)then g=u((e(20825)+e(21029))*e(20971)+(e(20938)+e(21300)))else local W=(e(20863)*e(20971)+e(21087))+((e(21114)+e(20952))*e(20951)+e(20947))end else local W=e(20945)+(e(21256)*e(21087)+e(20958))end I=e(21238)elseif I==(e(20872)-e(21136))-e(21038)then I=(e(20844)+e(21334))-e(21327)elseif I==e(21238)then if e(21256)*e(21256)+((e(20915)+e(20863))*e(21337)+e(20947))>(e(21123)-e(21066))-e(20842)then Q=u((e(21165)-e(21319))-e(21148))else local W=(e(21188)-(e(21341)*e(21036)+e(20958)))+e(21268)end if#{}==e(21147)+e(21200)then I=e(20914)*e(21055)+(e(20958)*e(20972)+e(21087))else local W=e(21236)+(e(20986)+e(20848))end elseif I==e(21052)then if type(e(21118))==u(e(20990)+e(21179))then W=task[u(e(20890)*e(20971)+(e(20958)*e(20951)+e(21087)))]else local W=(e(21235)-e(21183))+e(21075)end I=e(21086)-e(20894)elseif I==(e(21028)*e(21337)+e(20971))-(e(20800)+e(21195))then if not game:IsLoaded()then game[u(e(21337)*e(20951)+e(21087))]:Wait()end if type(e(21118))==u(e(20804))then d=game:GetService(u((e(20804)*e(20972)+e(20951))+e(21279)))else local W=((e(21271)*e(20972)+e(20971))*e(20972)+e(20947))+(e(21035)+e(20883))end if type(e(21118))==u(e(21185)+e(21290))then do local W=d[u(e(20937)-(e(21190)-e(21103)))]:Connect(function() end)local Z=d[u((e(21185)*e(21036)+e(20958))+e(21021))]:Connect(function() end)if typeof(W)~=u(e(21299)-e(21126))or typeof(Z)~=u(e(21110))then while e(21102)do for W=e(20947),e(21036),(e(21249)-e(21249))*e(20951)+e(20947)do if(e(20968)+e(21230))*(e(20971)*e(21055)+(e(20958)*e(20972)+e(21087)))+e(20947)>e(20958)then if type(e(21118))==u(e(20857)+(e(21354)-e(21068)))then if type(e(21118))==u((e(21094)+e(20836))-e(21295))then if type(e(21118))==u((e(21033)+e(21293))-e(20895))then task[u(e(20802))](function()if type({})==u((e(20829)+e(21088))-e(21116))then if type(e(21118))==u(e(20830)+e(20896))then while e(21102)do if((e(21280)*e(20951)+e(20971))-e(21063))*((e(21087)*e(20972)+e(20947))*e(20971)+(e(20934)-e(21335)))+(e(20958)*e(20951)+e(20947))>e(20958)then if#{}==e(21358)-(e(21270)+e(21228))then if type({})==u(e(21050)-e(21250))then task[u((e(21060)-e(21037))*e(20971)+(e(20958)*e(21337)+e(20958)))]()else local W=(e(20875)-(e(21139)+e(20821)))+(e(21009)+(e(20921)+e(20960)))end else local W=e(21173)+e(21087)end else local W=(e(21322)+(e(21353)*e(20951)+e(20947)))+((e(21151)*e(21087)+e(20958))-e(21097))end if(e(21000)-e(21207))*e(20826)+(e(20958)*e(20971)+e(20947))>e(20958)then if type({})==u((e(21336)+e(20838))+e(20806))then print(u(e(21184)))else local W=((e(20978)*e(20971)+e(20947))+e(21317))+(e(20868)-(e(20841)*e(21337)+e(20972)))end else local W=e(21023)+(e(20947)*e(20972)+e(20947))end end else local W=((e(20954)-e(21350))+(e(20906)*e(21337)+e(20972)))+(e(21216)*e(21087)+(e(20801)+e(21097)))end else local W=(e(20996)*e(20972)+e(20947))+((e(21074)+e(20873))-e(21093))end end)else local W=((e(21070)+e(21278))-e(21117))+((e(21232)*e(20971)+e(20947))+e(21072))end else local W=(e(21197)-e(20833))+e(21081)end else local W=(e(20974)+e(21265))+((e(21304)+e(20908))+e(21227))end else local W=e(21272)+(e(20947)*e(21055)+(e(21166)-e(21166)))end end end end if((e(20878)-e(21172))+(e(21302)-e(20944)))*(e(20951)*e(21087)+e(20947))+(e(21313)+(e(21100)*e(21087)+e(20947)))>e(20958)then if(e(21036)*e(20951)+e(20958))*(e(21076)-e(20988))+(e(20840)-e(21348))>(e(21153)*e(20951)+e(20947))-e(21179)then W:Disconnect()else local W=(e(20874)+e(21121))+(e(20826)*e(20971)+e(20958))end else local W=(e(21140)+e(21189))+(e(21010)+e(20895))end if type(e(21118))==u((e(21215)*e(20972)+e(20947))-e(21128))then if(e(20797)+(e(21018)*e(20951)+e(20958)))*(e(21124)+(e(21321)*e(21055)+e(21337)))+(e(20839)+e(21008))>e(20958)then if type({})==u(e(20964)-(e(20984)*e(21036)+e(20971)))then if#{}==e(20958)then Z:Disconnect()else local W=(e(21184)*e(21055)+e(20971))+(e(20947)*e(20951)+(e(20958)*e(20972)+e(20958)))end else local W=(e(20850)*e(20951)+(e(20858)-e(20858)))+e(21075)end else local W=(e(21095)-e(21346))+e(21059)end else local W=(e(21330)+(e(21246)-e(20805)))+(e(20887)-e(21224))end end else local W=(e(20847)*e(20951)+e(20958))+(e(21113)-e(21249))end Z,a,i,c=e(20971),{{u((e(21240)-e(21153))-(e(21015)*e(21036)+e(20971))),u(e(20803)-e(21109))};{u(e(20832)),u((e(21289)-e(21176))*e(21087)+(e(20958)*e(20951)+e(20947)))};{u(e(20808)+e(20930)),u(e(20861))},{u((e(21331)+e(21062))*e(20971)+(e(21315)+e(20796))),u(e(20853))},{u(e(21309)+(e(21167)-e(20924))),u(e(21312)-e(21168))},{u(e(21132)-e(20903));u(e(21244)+e(21133))},{u(e(21291)*e(20971)+(e(20893)+e(21029))),u(e(21337)*e(21055)+(e(20947)*e(20951)+e(20971)))},{u((e(21239)+e(21001))-e(20832));u(e(20980))},{u(e(21340));u((e(20944)*e(21087)+e(20958))-e(20864))};{u(e(21325)-e(21259)),u(e(21069)-(e(20998)+e(21247)))};{u(e(20935));u(e(20889)+e(20995))};{u((e(21287)-e(21264))+e(21199));u(e(20863))}},e(20958),{}I=(e(21160)-e(21041))+e(20883)elseif I==(e(21357)*e(21337)+e(20958))-e(21205)then g=x(g)if#{}==(e(20977)*e(20971)+e(20958))+e(21331)then if#{}==(e(20957)+e(21215))*e(21055)+(e(21008)-e(21008))then if(e(20947)*e(20971)+e(20947))*(e(21214)-e(20818))+((e(20880)-e(20880))*e(21036)+e(20947))>(e(21134)-e(20877))+e(20999)then if type(e(21118))==u(e(21329))then if(e(21170)-(e(20827)-e(20859)))*e(21271)+(e(20989)+e(20922))>e(20843)+e(20799)then j=e(21089)else local W=(e(21324)-e(21295))+e(21036)end else local W=((e(21291)*e(21337)+e(21036))*e(21087)+e(20958))+(e(20927)+e(21297))end else local W=(e(21150)+(e(21311)*e(20971)+e(20958)))+(e(21337)*e(20972)+e(20951))end else local W=(e(20910)*e(21087)+e(20947))+(e(21225)-e(21325))end else local W=((e(20851)+e(20900))*e(21337)+e(21087))+(e(21192)+e(20944))end if isfile and isfile(u(e(21092)-(e(21222)-e(21292))))then local W,d=pcall(readfile,u(e(21073)+e(21284)))if type({})==u((e(21351)+e(21182))*e(20972)+e(21036))then if type(e(21118))==u(e(21059)*e(21087)+e(20958))then if W and(d and#d>e(21343)*e(20971)+(e(20965)-e(21342)))then local W,Z=loadstring(d)if e(21036)*((e(20958)*e(21036)+e(20947))*e(20951)+e(20947))+(e(20958)*e(21087)+e(20947))>e(20958)then if W then if#{}==e(21056)+e(20941)then j=e(21102)else local W=((e(21167)+e(21285))-(e(21320)+e(21064)))+(e(21306)+e(21168))end W()end else local W=e(21362)+(e(21323)+e(21013))end end else local W=((e(20996)*e(21036)+e(20947))*e(21036)+(e(20947)*e(20971)+e(20958)))+(e(20929)-e(20971))end else local W=e(20897)+(e(21143)-e(21241))end end if((e(21077)-e(21295))*e(21055)+(e(20958)*e(21036)+e(20958)))*e(21055)+(e(20958)*e(21087)+e(20947))>e(21113)-(e(21123)+e(20794))then if not j then local W,d=pcall(function()return k({[u(e(21103)-(e(21026)*e(21036)+e(21087)))]=g;[u(e(20950)*e(21055)+(e(20958)*e(21087)+e(20958)))]=u(e(21097)+e(21019)),[u(e(21088))]={[u(e(21196)+(e(20909)-e(21171)))]=u(e(20996)*e(21337)+(e(20958)*e(21055)+e(20958)))}})end)if(e(20958)*e(20972)+e(20971))*(e(20879)+e(20810))+e(20947)>e(21178)+(e(20834)+e(21277))then if W and(d and(d[u((e(20819)-e(20974))-(e(21339)-e(21206)))]==e(21280)and(d[u(e(20938)-e(21115))]and#d[u(e(21328)+e(21255))]>(e(20951)*e(20971)+e(20958))*e(20951)+e(21087))))then if#{}==e(20861)+(e(20942)+e(20880))then if d[u(e(21135)+(e(21204)-e(20805)))]:match(u(e(20817)+e(21108)))or d[u(e(20973)+e(20811))]:match(u(e(21282)+e(21107)))then warn(u(e(20807)))else local W,Z=loadstring(d[u((e(20949)*e(20971)+e(20947))-(e(21276)-e(21229)))])if#{}==e(20958)*e(20951)+e(20958)then if W then j=e(21102)W()else if type({})==u(e(20790))then warn(u(e(20795))..tostring(Z))else local W=((e(21065)*e(21337)+e(20951))-e(21119))+(e(21164)-e(20812))end end else local W=((e(21337)*e(21337)+e(20971))*e(20971)+(e(21039)-e(21049)))+((e(20815)-e(21288))-e(20911))end end else local W=(e(20789)+e(20862))+(e(21087)*e(21036)+e(20958))end end else local W=(e(21221)-e(20855))+(e(20951)*e(21036)+e(20971))end end else local W=((e(21078)*e(21337)+e(21087))-e(21091))+(e(21087)*e(21087)+(e(21317)+e(21022)))end if not j then local W,d=pcall(function()return k({[u(e(21245))]=Q,[u(e(20933))]=u((e(20995)+e(21202))*e(20972)+e(21087)),[u(e(20837)+e(20864))]={[u((e(20790)+e(21130))+e(21167))]=u((e(21261)*e(21036)+e(20947))+e(21180))}})end)if W and(d and(d[u(e(21258)-e(21075))]==e(21058)+e(21316)and(d[u(e(20926)*e(21087)+e(20947))]and#d[u(e(20962)-(e(21269)-e(20956)))]>(e(21263)+e(21236))-(e(21216)*e(21087)+e(20958)))))then if not((d[u((e(21258)*e(21337)+e(20947))-(e(20932)+e(20831)))]:match(u(e(20886)+e(21144)))or d[u(e(21080)-(e(20992)+e(20917)))]:match(u(e(20956)))))then local W,Z=loadstring(d[u((e(21212)+e(20955))-(e(21045)-e(21149)))])if W then j=e(21102)if((e(21314)-e(21141))+(e(20822)*e(20972)+e(20947)))*(e(20954)-e(21122))+((e(20845)*e(20951)+e(21087))+e(20841))>e(20958)then W()else local W=((e(21256)*e(20951)+e(21087))*e(20972)+(e(21034)+e(21217)))+e(21071)end end end end end if not j then if(e(21020)-e(20863))*(e(21087)*e(20971)+e(20958))+(e(20958)*e(21036)+e(20947))>e(20958)then warn(u(e(21271)*e(21055)+e(20972)))else local W=((e(21005)-e(21218))*e(20972)+e(20958))+e(21036)end end I=(e(20870)*e(20971)+e(21087))*e(21087)+e(20947)elseif I==e(21177)then x=function(W)if typeof(W)==u((e(21042)*e(21036)+e(20951))+e(21105))and(W:find(u(e(21325)-(e(21024)+e(21120))))and W:find(u(e(20948)-(e(20933)+e(21255)))))then return W:gsub(u(e(21281)),u(e(20853)*e(21087)+e(20947)))end return W end I=(e(21305)-e(21048))-e(21082)end else local W=(e(21355)-e(21162))+(e(21036)*e(20972)+e(20958))end else local W=(e(21274)-e(21152))+((e(21157)+e(20867))*e(20972)+e(21036))end end end)(...)
+-- language: Luau, file: Core.lua, runtime: Roblox Luau, target: SairyWare Core Client Authority
+--[[
+    SairyWare — Core Authentication Authority & Runtime Guard
+    Author: Alert3z / SairyWare Team
+    Architecture: Modern Obsidian Glass UI / CanvasGroup / Toast Engine / Server Authority
+]]
+
+local TaskWait = task.wait
+
+if not game:IsLoaded() then
+    game.Loaded:Wait()
+end
+
+--// Services
+local Services = setmetatable({}, {
+    __index = function(Self, Name)
+        local Service = cloneref and cloneref(game:GetService(Name)) or game:GetService(Name)
+        rawset(Self, Name, Service)
+        return Service
+    end
+})
+
+local TweenService       = Services.TweenService
+local UserInputService   = Services.UserInputService
+local RunService         = Services.RunService
+local Players            = Services.Players
+local HttpService        = Services.HttpService
+local RbxAnalyticsService= Services.RbxAnalyticsService
+
+local LocalPlayer        = Players.LocalPlayer
+local PlayerGui          = LocalPlayer:WaitForChild("PlayerGui")
+
+--// Environment Helpers
+local function GetGuiParent()
+    if gethui then return gethui() end
+    local CoreGui = Services.CoreGui
+    if CoreGui then
+        local Success = pcall(function() local _ = CoreGui.Name end)
+        if Success then return CoreGui end
+    end
+    return PlayerGui
+end
+
+local function GetRequest()
+    return (syn and syn.request) or (http and http.request) or http_request or request
+end
+
+local function GetHwid()
+    local ExecutorHwid = gethwid and gethwid() or get_hwid and get_hwid()
+    if ExecutorHwid and #ExecutorHwid > 0 then
+        return tostring(ExecutorHwid)
+    end
+    local Success, ClientId = pcall(function()
+        return RbxAnalyticsService:GetClientId()
+    end)
+    if Success and ClientId and #ClientId > 0 then
+        return "RBX-" .. tostring(ClientId)
+    end
+    return "RBX-UNKNOWN-CLIENT"
+end
+
+local FolderName  = "SairyWare"
+local KeyFileName = FolderName .. "/Key.txt"
+
+local function LoadSavedKey()
+    if isfile and isfile(KeyFileName) then
+        local Saved = readfile(KeyFileName)
+        if Saved and #Saved > 0 then
+            return Saved:gsub("%s+", "")
+        end
+    end
+    return ""
+end
+
+local function SaveKey(Key)
+    if not (makefolder and writefile) then return end
+    if not isfolder(FolderName) then
+        makefolder(FolderName)
+    end
+    writefile(KeyFileName, Key)
+end
+
+local function SetClipboardText(Text)
+    if setclipboard then
+        setclipboard(Text)
+        return true
+    end
+    return false
+end
+
+local function GetClipboardText()
+    if getclipboard then
+        local Success, Result = pcall(getclipboard)
+        if Success and type(Result) == "string" and #Result > 0 then
+            return Result
+        end
+    end
+    return nil
+end
+
+--// Configuration
+local ApiUrl     = "https://sairy-ware.alert-3zyt.workers.dev"
+local DiscordUrl = "https://discord.gg/AEYZepuvvK"
+
+--// 3. Color & Typography Specifications
+local PALETTE = {
+    BackgroundObsidian = Color3.fromRGB(7, 9, 13),      -- #07090D (Base Canvas)
+    CardSurface        = Color3.fromRGB(15, 18, 26),    -- #0F121A (Surface Low)
+    SurfaceElevated    = Color3.fromRGB(20, 24, 35),    -- #141823 (Card/Input Fill)
+    SurfaceBorder      = Color3.fromRGB(255, 255, 255), -- Transparency: 0.92
+    
+    CyanElectric       = Color3.fromRGB(0, 240, 255),   -- #00F0FF (Primary Active)
+    IrisRoyal          = Color3.fromRGB(99, 102, 241),  -- #6366F1 (Secondary Accent)
+    AccentGlowCyan     = Color3.fromRGB(0, 240, 255),   -- Transparency: 0.75
+    
+    SuccessGreen       = Color3.fromRGB(34, 197, 94),   -- #22C55E (Accepted / Online)
+    ErrorRed           = Color3.fromRGB(239, 68, 68),   -- #EF4444 (Invalid / Denied)
+    WarningAmber       = Color3.fromRGB(245, 158, 11),  -- #F59E0B (Expired / Notice)
+    
+    TextPrimary        = Color3.fromRGB(255, 255, 255), -- #FFFFFF (Titles, Input)
+    TextSecondary      = Color3.fromRGB(148, 163, 184), -- #94A3B8 (Labels, Subtitles)
+    TextMuted          = Color3.fromRGB(71, 85, 105),   -- #475569 (Placeholders, Borders)
+}
+
+--// Status Mapping Specification
+local STATUS_CONFIG = {
+    VALID = { Message = "Key Verified Successfully", Color = PALETTE.SuccessGreen },
+    INVALID_KEY = { Message = "Invalid Key", Color = PALETTE.ErrorRed },
+    DEVICE_MISMATCH = { Message = "This Key Is Already Bound To Another Device", Color = PALETTE.WarningAmber },
+    EXPIRED = { Message = "This Key Has Expired", Color = PALETTE.WarningAmber },
+    SUSPENDED = { Message = "This Key Has Been Suspended", Color = PALETTE.ErrorRed },
+    REVOKED = { Message = "This Key Has Been Revoked", Color = PALETTE.ErrorRed },
+    EXHAUSTED = { Message = "Maximum Allowed Uses Reached", Color = PALETTE.WarningAmber },
+    NOT_ACTIVATED = { Message = "This Key Has Not Been Activated", Color = PALETTE.WarningAmber },
+    RATE_LIMITED = { Message = "Too Many Requests. Please wait.", Color = PALETTE.WarningAmber },
+    SERVER_ERROR = { Message = "Unable To Verify Key", Color = PALETTE.ErrorRed },
+    AUTH_FAILED = { Message = "Authentication Failed", Color = PALETTE.ErrorRed },
+}
+
+--// Local Closure-Scoped Runtime Security State (DO NOT expose raw authority in getgenv)
+local RuntimeState = {
+    IsAuthenticated = false,
+    SessionToken = nil,
+    Key = nil,
+    Hwid = nil,
+    GameId = tostring(game.GameId),
+    PlaceId = tostring(game.PlaceId),
+    HeartbeatInterval = 60, -- 60s responsive heartbeat
+    HeartbeatTask = nil,
+    LastVerified = 0,
+    Vars = {},
+}
+
+local CurrentActiveGui = nil
+
+local function EnforceViolation(Reason, Status)
+    RuntimeState.IsAuthenticated = false
+    RuntimeState.SessionToken = nil
+    RuntimeState.Key = nil
+
+    if RuntimeState.HeartbeatTask then
+        task.cancel(RuntimeState.HeartbeatTask)
+        RuntimeState.HeartbeatTask = nil
+    end
+
+    if CurrentActiveGui then
+        pcall(function() CurrentActiveGui:Destroy() end)
+        CurrentActiveGui = nil
+    end
+
+    -- Clear fallback globals
+    getgenv().SairyKey = nil
+    getgenv().SairyHwid = nil
+    getgenv().SairySession = nil
+    getgenv().SairySignature = nil
+    getgenv().Session = nil
+    getgenv().SairyVars = nil
+    _G.SairyKey = nil
+
+    local ViolationText = string.format("[SAIRYWARE CORE GUARD]\nAccess Denied: %s\nStatus: %s", tostring(Reason or "Authentication Required"), tostring(Status or "AUTH_FAILED"))
+    warn(ViolationText)
+
+    pcall(function()
+        if LocalPlayer and LocalPlayer.Kick then
+            LocalPlayer:Kick(ViolationText)
+        end
+    end)
+
+    error(ViolationText, 0)
+end
+
+local function VerifySessionWithServer()
+    if not RuntimeState.SessionToken or not RuntimeState.Key then
+        EnforceViolation("No active session token to verify.", "AUTH_FAILED")
+        return false
+    end
+
+    local RequestFunc = GetRequest()
+    if not RequestFunc then
+        EnforceViolation("HTTP request capability missing during session verification.", "SERVER_ERROR")
+        return false
+    end
+
+    local Success, Response = pcall(function()
+        return RequestFunc({
+            Url = ApiUrl .. "/session-check",
+            Method = "POST",
+            Headers = { ["Content-Type"] = "application/json" },
+            Body = HttpService:JSONEncode({
+                key = RuntimeState.Key,
+                hwid = RuntimeState.Hwid or GetHwid(),
+                session_token = RuntimeState.SessionToken,
+                signature = RuntimeState.SessionToken,
+                game_id = RuntimeState.GameId,
+                place_id = RuntimeState.PlaceId,
+            }),
+        })
+    end)
+
+    if not Success or not Response or Response.StatusCode ~= 200 then
+        local ServerStatus = "SERVER_ERROR"
+        local ServerMsg = "Session verification failed"
+        pcall(function()
+            local Decoded = HttpService:JSONDecode(Response.Body)
+            if Decoded then
+                if Decoded.status then ServerStatus = Decoded.status end
+                if Decoded.message then ServerMsg = Decoded.message end
+            end
+        end)
+        EnforceViolation(ServerMsg, ServerStatus)
+        return false
+    end
+
+    local Decoded
+    local DecodeOk = pcall(function() Decoded = HttpService:JSONDecode(Response.Body) end)
+    if not DecodeOk or not Decoded or not Decoded.success or Decoded.status ~= "VALID" then
+        local Status = (Decoded and Decoded.status) or "AUTH_FAILED"
+        local Msg = (Decoded and Decoded.message) or "Session revoked by server authority."
+        EnforceViolation(Msg, Status)
+        return false
+    end
+
+    RuntimeState.LastVerified = os.time()
+    return true
+end
+
+--// Factory for Secure AuthContext (passed directly to game scripts)
+local function CreateAuthContext()
+    local AuthContext = {}
+    AuthContext.IsCoreAuthority = true
+    AuthContext.GameId = RuntimeState.GameId
+    AuthContext.PlaceId = RuntimeState.PlaceId
+
+    function AuthContext:ValidateRuntime()
+        return RuntimeState.IsAuthenticated and (RuntimeState.SessionToken ~= nil) and (#RuntimeState.SessionToken > 10)
+    end
+
+    function AuthContext:GetToken()
+        return RuntimeState.SessionToken
+    end
+
+    function AuthContext:GetKey()
+        return RuntimeState.Key
+    end
+
+    function AuthContext:GetVars()
+        return RuntimeState.Vars
+    end
+
+    function AuthContext:VerifyServerSession()
+        return VerifySessionWithServer()
+    end
+
+    function AuthContext:ProtectFunction(ActionName, OriginalFunc)
+        return function(...)
+            if not RuntimeState.IsAuthenticated or not RuntimeState.SessionToken then
+                EnforceViolation("Protected function '" .. tostring(ActionName) .. "' called without authenticated session.", "AUTH_FAILED")
+                return
+            end
+            if (os.time() - RuntimeState.LastVerified) > RuntimeState.HeartbeatInterval then
+                local IsValid = VerifySessionWithServer()
+                if not IsValid then return end
+            end
+            return OriginalFunc(...)
+        end
+    end
+
+    return AuthContext
+end
+
+--// Authenticate with Cloudflare Worker
+local function AuthenticateKey(UserKey)
+    local RequestFunc = GetRequest()
+    if not RequestFunc then
+        return false, "SERVER_ERROR", "Executor does not support HTTP requests", nil
+    end
+
+    local Hwid = GetHwid()
+    local Timestamp = os.time()
+    local GameId = tostring(game.GameId)
+    local PlaceId = tostring(game.PlaceId)
+
+    local MarketplaceService = Services.MarketplaceService
+    local GameName = "Unknown Game"
+    pcall(function()
+        local Info = MarketplaceService:GetProductInfo(game.PlaceId)
+        if Info and Info.Name then GameName = tostring(Info.Name) end
+    end)
+
+    local Success, Response = pcall(function()
+        return RequestFunc({
+            Url = ApiUrl .. "/auth",
+            Method = "POST",
+            Headers = { ["Content-Type"] = "application/json" },
+            Body = HttpService:JSONEncode({
+                key = UserKey,
+                hwid = Hwid,
+                game_id = GameId,
+                place_id = PlaceId,
+                game_name = GameName,
+                GameName = GameName,
+                PlaceId = PlaceId,
+                GameId = GameId,
+                script_uid = "SairyWareCore",
+                timestamp = Timestamp,
+            }),
+        })
+    end)
+
+    if not Success or not Response then
+        return false, "SERVER_ERROR", STATUS_CONFIG.SERVER_ERROR.Message .. " (Connection Failed)", nil
+    end
+
+    local Data = nil
+    pcall(function()
+        Data = HttpService:JSONDecode(Response.Body)
+    end)
+
+    if not Data or type(Data) ~= "table" then
+        local FallbackStatus = Response.StatusCode == 429 and "RATE_LIMITED" or (Response.StatusCode == 403 and "INVALID_KEY" or "SERVER_ERROR")
+        return false, FallbackStatus, STATUS_CONFIG[FallbackStatus].Message, nil
+    end
+
+    if not Data.success or Response.StatusCode ~= 200 or Data.status ~= "VALID" then
+        local Status = Data.status or "AUTH_FAILED"
+        local Msg = STATUS_CONFIG[Status] and STATUS_CONFIG[Status].Message or (Data.message or "Authentication Failed")
+        if Status == "DEVICE_MISMATCH" and Data.data and Data.data.device_reference then
+            Msg = string.format("This Key Is Bound To Another Device (%s)", tostring(Data.data.device_reference))
+        end
+        return false, Status, Msg, Data
+    end
+
+    return true, "VALID", STATUS_CONFIG.VALID.Message, Data
+end
+
+--// Start Heartbeat & Runtime Security
+local function StartSessionGuard(UserKey, Hwid, SessionToken, Vars)
+    RuntimeState.IsAuthenticated = true
+    RuntimeState.Key = UserKey
+    RuntimeState.Hwid = Hwid
+    RuntimeState.SessionToken = SessionToken
+    RuntimeState.Vars = Vars or {}
+    RuntimeState.LastVerified = os.time()
+
+    -- Compatibility fallback (for external inspection without granting authority)
+    getgenv().SairySession = SessionToken
+    getgenv().SairyKey = UserKey
+    getgenv().SairyHwid = Hwid
+    getgenv().SairyVars = RuntimeState.Vars
+
+    if RuntimeState.HeartbeatTask then
+        task.cancel(RuntimeState.HeartbeatTask)
+    end
+
+    RuntimeState.HeartbeatTask = task.spawn(function()
+        while RuntimeState.IsAuthenticated do
+            task.wait(RuntimeState.HeartbeatInterval)
+            if RuntimeState.IsAuthenticated then
+                VerifySessionWithServer()
+            end
+        end
+    end)
+end
+
+--// Execute Game Script with AuthContext
+local function LaunchGamePayload(PayloadString)
+    task.spawn(function()
+        TaskWait(0.4)
+        local ScriptFunction, CompileErr = loadstring(PayloadString)
+        if not ScriptFunction then
+            warn("[SAIRYWARE CORE] Failed to compile payload: " .. tostring(CompileErr))
+            return
+        end
+
+        local AuthContext = CreateAuthContext()
+        local ExecOk, ExecErr = pcall(function()
+            ScriptFunction(AuthContext)
+        end)
+
+        if not ExecOk then
+            warn("[SAIRYWARE CORE] Execution error: " .. tostring(ExecErr))
+        end
+    end)
+end
+
+--// Render KeySystem UI (Modern Obsidian Glass UI)
+local function RenderKeySystemUi(InitialStatusText, InitialStatus)
+    -- Clean previous instances
+    local ParentGui = GetGuiParent()
+    for _, GuiName in ipairs({"SairyWare_KeySystem", "SairyAuthentication"}) do
+        local Existing = ParentGui:FindFirstChild(GuiName)
+        if Existing then Existing:Destroy() end
+    end
+
+    local StoredKey = LoadSavedKey()
+    local IsMasked = false
+    local IsVerifying = false
+
+    local ScreenGui = Instance.new("ScreenGui")
+    ScreenGui.Name = "SairyWare_KeySystem"
+    ScreenGui.ResetOnSpawn = false
+    ScreenGui.ZIndexBehavior = Enum.ZIndexBehavior.Sibling
+    ScreenGui.IgnoreGuiInset = true
+    ScreenGui.DisplayOrder = 999
+    ScreenGui.Parent = ParentGui
+    CurrentActiveGui = ScreenGui
+
+    local BackgroundDim = Instance.new("Frame")
+    BackgroundDim.Name = "BackgroundDim"
+    BackgroundDim.Size = UDim2.fromScale(1, 1)
+    BackgroundDim.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
+    BackgroundDim.BackgroundTransparency = 1
+    BackgroundDim.BorderSizePixel = 0
+    BackgroundDim.Parent = ScreenGui
+
+    local MainModal = Instance.new("CanvasGroup")
+    MainModal.Name = "MainModal"
+    MainModal.Size = UDim2.fromOffset(480, 430)
+    MainModal.Position = UDim2.fromScale(0.5, 0.5)
+    MainModal.AnchorPoint = Vector2.new(0.5, 0.5)
+    MainModal.BackgroundColor3 = PALETTE.BackgroundObsidian
+    MainModal.BorderSizePixel = 0
+    MainModal.GroupTransparency = 1
+    MainModal.Parent = ScreenGui
+
+    local ModalCorner = Instance.new("UICorner")
+    ModalCorner.CornerRadius = UDim.new(0, 16)
+    ModalCorner.Parent = MainModal
+
+    local ModalStroke = Instance.new("UIStroke")
+    ModalStroke.Name = "ModalStroke"
+    ModalStroke.Color = PALETTE.SurfaceBorder
+    ModalStroke.Thickness = 1
+    ModalStroke.Transparency = 0.92
+    ModalStroke.Parent = MainModal
+
+    -- Draggable modal
+    local Dragging, DragInput, DragStart, StartPos
+    MainModal.InputBegan:Connect(function(Input)
+        if Input.UserInputType == Enum.UserInputType.MouseButton1 or Input.UserInputType == Enum.UserInputType.Touch then
+            Dragging = true
+            DragStart = Input.Position
+            StartPos = MainModal.Position
+            Input.Changed:Connect(function()
+                if Input.UserInputState == Enum.UserInputState.End then Dragging = false end
+            end)
+        end
+    end)
+    MainModal.InputChanged:Connect(function(Input)
+        if Input.UserInputType == Enum.UserInputType.MouseMovement or Input.UserInputType == Enum.UserInputType.Touch then
+            if Dragging and DragStart and StartPos then
+                local Delta = Input.Position - DragStart
+                MainModal.Position = UDim2.new(StartPos.X.Scale, StartPos.X.Offset + Delta.X, StartPos.Y.Scale, StartPos.Y.Offset + Delta.Y)
+            end
+        end
+    end)
+
+    -- Toast Notification Engine
+    local ToastContainer = Instance.new("Frame")
+    ToastContainer.Name = "ToastContainer"
+    ToastContainer.Size = UDim2.new(1, -48, 0, 48)
+    ToastContainer.Position = UDim2.new(0, 24, 1, -64)
+    ToastContainer.BackgroundTransparency = 1
+    ToastContainer.ZIndex = 10
+    ToastContainer.Parent = MainModal
+
+    local ToastCard = Instance.new("Frame")
+    ToastCard.Name = "ToastCard"
+    ToastCard.Size = UDim2.new(1, 0, 1, 0)
+    ToastCard.Position = UDim2.fromOffset(0, 70)
+    ToastCard.BackgroundColor3 = PALETTE.SurfaceElevated
+    ToastCard.BorderSizePixel = 0
+    ToastCard.Parent = ToastContainer
+
+    local ToastCorner = Instance.new("UICorner")
+    ToastCorner.CornerRadius = UDim.new(0, 8)
+    ToastCorner.Parent = ToastCard
+
+    local ToastAccentBar = Instance.new("Frame")
+    ToastAccentBar.Name = "ToastAccentBar"
+    ToastAccentBar.Size = UDim2.new(0, 4, 1, 0)
+    ToastAccentBar.BackgroundColor3 = PALETTE.CyanElectric
+    ToastAccentBar.BorderSizePixel = 0
+    ToastAccentBar.Parent = ToastCard
+
+    local ToastTitle = Instance.new("TextLabel")
+    ToastTitle.Name = "ToastTitle"
+    ToastTitle.Size = UDim2.new(1, -20, 0, 16)
+    ToastTitle.Position = UDim2.fromOffset(14, 6)
+    ToastTitle.BackgroundTransparency = 1
+    ToastTitle.Text = "SYSTEM NOTICE"
+    ToastTitle.TextColor3 = PALETTE.TextPrimary
+    ToastTitle.TextSize = 11
+    ToastTitle.Font = Enum.Font.GothamBold
+    ToastTitle.TextXAlignment = Enum.TextXAlignment.Left
+    ToastTitle.Parent = ToastCard
+
+    local ToastDesc = Instance.new("TextLabel")
+    ToastDesc.Name = "ToastDesc"
+    ToastDesc.Size = UDim2.new(1, -20, 0, 18)
+    ToastDesc.Position = UDim2.fromOffset(14, 22)
+    ToastDesc.BackgroundTransparency = 1
+    ToastDesc.Text = "Toast message"
+    ToastDesc.TextColor3 = PALETTE.TextSecondary
+    ToastDesc.TextSize = 10
+    ToastDesc.Font = Enum.Font.GothamMedium
+    ToastDesc.TextXAlignment = Enum.TextXAlignment.Left
+    ToastDesc.Parent = ToastCard
+
+    local CurrentToastThread = nil
+    local function ShowToast(Type, Title, Desc)
+        if CurrentToastThread then task.cancel(CurrentToastThread) end
+        local AccentColor = PALETTE.CyanElectric
+        if Type == "SUCCESS" then AccentColor = PALETTE.SuccessGreen
+        elseif Type == "ERROR" then AccentColor = PALETTE.ErrorRed
+        elseif Type == "WARNING" then AccentColor = PALETTE.WarningAmber end
+
+        ToastAccentBar.BackgroundColor3 = AccentColor
+        ToastTitle.Text = Title:upper()
+        ToastTitle.TextColor3 = AccentColor
+        ToastDesc.Text = Desc
+
+        TweenService:Create(ToastCard, TweenInfo.new(0.3, Enum.EasingStyle.Quart, Enum.EasingDirection.Out), {
+            Position = UDim2.fromOffset(0, 0)
+        }):Play()
+
+        CurrentToastThread = task.delay(3.5, function()
+            TweenService:Create(ToastCard, TweenInfo.new(0.3, Enum.EasingStyle.Quart, Enum.EasingDirection.In), {
+                Position = UDim2.fromOffset(0, 70)
+            }):Play()
+        end)
+    end
+
+    -- Header
+    local Header = Instance.new("Frame")
+    Header.Name = "Header"
+    Header.Size = UDim2.new(1, 0, 0, 56)
+    Header.BackgroundTransparency = 1
+    Header.Parent = MainModal
+
+    local HeaderPadding = Instance.new("UIPadding")
+    HeaderPadding.PaddingLeft = UDim.new(0, 24)
+    HeaderPadding.PaddingRight = UDim.new(0, 24)
+    HeaderPadding.Parent = Header
+
+    local TitleLabel = Instance.new("TextLabel")
+    TitleLabel.Name = "TitleLabel"
+    TitleLabel.Size = UDim2.new(0.7, 0, 1, 0)
+    TitleLabel.BackgroundTransparency = 1
+    TitleLabel.Text = "SAIRYWARE  //  KEY AUTHENTICATION"
+    TitleLabel.TextColor3 = PALETTE.TextPrimary
+    TitleLabel.TextSize = 13
+    TitleLabel.Font = Enum.Font.GothamBold
+    TitleLabel.TextXAlignment = Enum.TextXAlignment.Left
+    TitleLabel.Parent = Header
+
+    local CloseBtn = Instance.new("TextButton")
+    CloseBtn.Name = "CloseBtn"
+    CloseBtn.Size = UDim2.fromOffset(28, 28)
+    CloseBtn.Position = UDim2.new(1, -28, 0.5, 0)
+    CloseBtn.AnchorPoint = Vector2.new(0, 0.5)
+    CloseBtn.BackgroundColor3 = PALETTE.CardSurface
+    CloseBtn.BorderSizePixel = 0
+    CloseBtn.Text = "✕"
+    CloseBtn.TextColor3 = PALETTE.TextSecondary
+    CloseBtn.TextSize = 12
+    CloseBtn.Font = Enum.Font.GothamBold
+    CloseBtn.Parent = Header
+
+    local CloseCorner = Instance.new("UICorner")
+    CloseCorner.CornerRadius = UDim.new(0, 6)
+    CloseCorner.Parent = CloseBtn
+
+    CloseBtn.MouseButton1Click:Connect(function()
+        TweenService:Create(MainModal, TweenInfo.new(0.25, Enum.EasingStyle.Quart, Enum.EasingDirection.In), {
+            GroupTransparency = 1,
+            Size = UDim2.fromOffset(450, 400),
+        }):Play()
+        TweenService:Create(BackgroundDim, TweenInfo.new(0.25), { BackgroundTransparency = 1 }):Play()
+        task.wait(0.3)
+        ScreenGui:Destroy()
+    end)
+
+    -- Body
+    local Body = Instance.new("Frame")
+    Body.Name = "Body"
+    Body.Size = UDim2.new(1, -48, 1, -114)
+    Body.Position = UDim2.fromOffset(24, 60)
+    Body.BackgroundTransparency = 1
+    Body.Parent = MainModal
+
+    local SubtitleLabel = Instance.new("TextLabel")
+    SubtitleLabel.Name = "SubtitleLabel"
+    SubtitleLabel.Size = UDim2.new(1, 0, 0, 20)
+    SubtitleLabel.BackgroundTransparency = 1
+    SubtitleLabel.Text = "ENTER YOUR LICENSE KEY TO PROCEED"
+    SubtitleLabel.TextColor3 = PALETTE.TextSecondary
+    SubtitleLabel.TextSize = 10
+    SubtitleLabel.Font = Enum.Font.GothamBold
+    SubtitleLabel.TextXAlignment = Enum.TextXAlignment.Left
+    SubtitleLabel.Parent = Body
+
+    -- Input Card
+    local InputCard = Instance.new("Frame")
+    InputCard.Name = "InputCard"
+    InputCard.Size = UDim2.new(1, 0, 0, 46)
+    InputCard.Position = UDim2.fromOffset(0, 26)
+    InputCard.BackgroundColor3 = PALETTE.SurfaceElevated
+    InputCard.BorderSizePixel = 0
+    InputCard.Parent = Body
+
+    local InputCorner = Instance.new("UICorner")
+    InputCorner.CornerRadius = UDim.new(0, 8)
+    InputCorner.Parent = InputCard
+
+    local InputStroke = Instance.new("UIStroke")
+    InputStroke.Color = PALETTE.SurfaceBorder
+    InputStroke.Thickness = 1
+    InputStroke.Transparency = 0.92
+    InputStroke.Parent = InputCard
+
+    local KeyInputBox = Instance.new("TextBox")
+    KeyInputBox.Name = "KeyInputBox"
+    KeyInputBox.Size = UDim2.new(1, -85, 1, 0)
+    KeyInputBox.Position = UDim2.fromOffset(12, 0)
+    KeyInputBox.BackgroundTransparency = 1
+    KeyInputBox.Text = StoredKey
+    KeyInputBox.PlaceholderText = "SAIRY-XXXX-XXXX-XXXX-XXXX"
+    KeyInputBox.PlaceholderColor3 = PALETTE.TextMuted
+    KeyInputBox.TextColor3 = PALETTE.TextPrimary
+    KeyInputBox.TextSize = 12
+    KeyInputBox.Font = Enum.Font.RobotoMono
+    KeyInputBox.TextXAlignment = Enum.TextXAlignment.Left
+    KeyInputBox.ClearTextOnFocus = false
+    KeyInputBox.Parent = InputCard
+
+    local PasteBtn = Instance.new("TextButton")
+    PasteBtn.Name = "PasteBtn"
+    PasteBtn.Size = UDim2.fromOffset(60, 28)
+    PasteBtn.Position = UDim2.new(1, -68, 0.5, 0)
+    PasteBtn.AnchorPoint = Vector2.new(0, 0.5)
+    PasteBtn.BackgroundColor3 = PALETTE.CardSurface
+    PasteBtn.BorderSizePixel = 0
+    PasteBtn.Text = "PASTE"
+    PasteBtn.TextColor3 = PALETTE.CyanElectric
+    PasteBtn.TextSize = 10
+    PasteBtn.Font = Enum.Font.GothamBold
+    PasteBtn.Parent = InputCard
+
+    local PasteCorner = Instance.new("UICorner")
+    PasteCorner.CornerRadius = UDim.new(0, 6)
+    PasteCorner.Parent = PasteBtn
+
+    PasteBtn.MouseButton1Click:Connect(function()
+        local Clip = GetClipboardText()
+        if Clip and #Clip > 0 then
+            local Clean = Clip:gsub("%s+", "")
+            KeyInputBox.Text = Clean
+            StoredKey = Clean
+            ShowToast("INFO", "Clipboard Attached", "Key populated from clipboard.")
+        end
+    end)
+
+    -- Action Buttons Rack
+    local ActionRack = Instance.new("Frame")
+    ActionRack.Name = "ActionRack"
+    ActionRack.Size = UDim2.new(1, 0, 0, 40)
+    ActionRack.Position = UDim2.fromOffset(0, 82)
+    ActionRack.BackgroundTransparency = 1
+    ActionRack.Parent = Body
+
+    local VerifyBtn = Instance.new("TextButton")
+    VerifyBtn.Name = "VerifyBtn"
+    VerifyBtn.Size = UDim2.new(0.58, -6, 1, 0)
+    VerifyBtn.BackgroundColor3 = PALETTE.IrisRoyal
+    VerifyBtn.BorderSizePixel = 0
+    VerifyBtn.Text = "✔  Verify License"
+    VerifyBtn.TextColor3 = PALETTE.TextPrimary
+    VerifyBtn.TextSize = 12
+    VerifyBtn.Font = Enum.Font.GothamBold
+    VerifyBtn.Parent = ActionRack
+
+    local VerifyCorner = Instance.new("UICorner")
+    VerifyCorner.CornerRadius = UDim.new(0, 8)
+    VerifyCorner.Parent = VerifyBtn
+
+    local GetKeyBtn = Instance.new("TextButton")
+    GetKeyBtn.Name = "GetKeyBtn"
+    GetKeyBtn.Size = UDim2.new(0.42, -6, 1, 0)
+    GetKeyBtn.Position = UDim2.new(0.58, 6, 0, 0)
+    GetKeyBtn.BackgroundColor3 = PALETTE.CardSurface
+    GetKeyBtn.BorderSizePixel = 0
+    GetKeyBtn.Text = "🔑  Get Key"
+    GetKeyBtn.TextColor3 = PALETTE.CyanElectric
+    GetKeyBtn.TextSize = 12
+    GetKeyBtn.Font = Enum.Font.GothamBold
+    GetKeyBtn.Parent = ActionRack
+
+    local GetKeyCorner = Instance.new("UICorner")
+    GetKeyCorner.CornerRadius = UDim.new(0, 8)
+    GetKeyCorner.Parent = GetKeyBtn
+
+    GetKeyBtn.MouseButton1Click:Connect(function()
+        local Url = ApiUrl .. "/getkey"
+        if SetClipboardText(Url) then
+            ShowToast("INFO", "Get Key Copied", "Get-Key link copied to clipboard!")
+        end
+    end)
+
+    -- Status & Info Cards Rack (2x2 Grid)
+    local InfoCardsRack = Instance.new("Frame")
+    InfoCardsRack.Name = "InfoCardsRack"
+    InfoCardsRack.Size = UDim2.new(1, 0, 0, 110)
+    InfoCardsRack.Position = UDim2.fromOffset(0, 134)
+    InfoCardsRack.BackgroundTransparency = 1
+    InfoCardsRack.Parent = Body
+
+    local InfoLayout = Instance.new("UIGridLayout")
+    InfoLayout.CellSize = UDim2.new(0.5, -4, 0, 50)
+    InfoLayout.CellPadding = UDim2.new(0, 8, 0, 8)
+    InfoLayout.Parent = InfoCardsRack
+
+    local function CreateInfoCard(Title, Val)
+        local Card = Instance.new("Frame")
+        Card.BackgroundColor3 = PALETTE.CardSurface
+        Card.BorderSizePixel = 0
+        Card.Parent = InfoCardsRack
+
+        local C = Instance.new("UICorner")
+        C.CornerRadius = UDim.new(0, 8)
+        C.Parent = Card
+
+        local S = Instance.new("UIStroke")
+        S.Color = PALETTE.SurfaceBorder
+        S.Thickness = 1
+        S.Transparency = 0.92
+        S.Parent = Card
+
+        local L = Instance.new("TextLabel")
+        L.Size = UDim2.new(1, -16, 0, 14)
+        L.Position = UDim2.fromOffset(8, 6)
+        L.BackgroundTransparency = 1
+        L.Text = Title
+        L.TextColor3 = PALETTE.TextMuted
+        L.TextSize = 9
+        L.Font = Enum.Font.GothamBold
+        L.TextXAlignment = Enum.TextXAlignment.Left
+        L.Parent = Card
+
+        local V = Instance.new("TextLabel")
+        V.Size = UDim2.new(1, -16, 0, 18)
+        V.Position = UDim2.fromOffset(8, 22)
+        V.BackgroundTransparency = 1
+        V.Text = Val
+        V.TextColor3 = PALETTE.TextSecondary
+        V.TextSize = 11
+        V.Font = Enum.Font.GothamMedium
+        V.TextXAlignment = Enum.TextXAlignment.Left
+        V.Parent = Card
+
+        return V
+    end
+
+    local ValStatus = CreateInfoCard("KEY STATUS", InitialStatusText or "● Ready for Input")
+    local ValExpires = CreateInfoCard("EXPIRATION", "--")
+    local ValHwid = CreateInfoCard("SECURITY CHECK", "✔ HWID Ready")
+    local ValNode = CreateInfoCard("AUTHORITY NODE", "CF-Edge Sentinel")
+
+    if InitialStatus and STATUS_CONFIG[InitialStatus] then
+        ValStatus.TextColor3 = STATUS_CONFIG[InitialStatus].Color
+    end
+
+    -- Footer
+    local Footer = Instance.new("Frame")
+    Footer.Name = "Footer"
+    Footer.Size = UDim2.new(1, 0, 0, 44)
+    Footer.Position = UDim2.new(0, 0, 1, -44)
+    Footer.BackgroundTransparency = 1
+    Footer.Parent = MainModal
+
+    local FooterPadding = Instance.new("UIPadding")
+    FooterPadding.PaddingLeft = UDim.new(0, 24)
+    FooterPadding.PaddingRight = UDim.new(0, 24)
+    FooterPadding.Parent = Footer
+
+    local CreditLabel = Instance.new("TextLabel")
+    CreditLabel.Size = UDim2.new(0.65, 0, 1, 0)
+    CreditLabel.BackgroundTransparency = 1
+    CreditLabel.Text = "SairyWare Core Authority v3.0"
+    CreditLabel.TextColor3 = PALETTE.TextMuted
+    CreditLabel.TextSize = 11
+    CreditLabel.Font = Enum.Font.GothamMedium
+    CreditLabel.TextXAlignment = Enum.TextXAlignment.Left
+    CreditLabel.Parent = Footer
+
+    local DiscordBtn = Instance.new("TextButton")
+    DiscordBtn.Size = UDim2.fromOffset(90, 26)
+    DiscordBtn.Position = UDim2.new(1, -90, 0.5, 0)
+    DiscordBtn.AnchorPoint = Vector2.new(0, 0.5)
+    DiscordBtn.BackgroundColor3 = PALETTE.CardSurface
+    DiscordBtn.BorderSizePixel = 0
+    DiscordBtn.Text = "💬 Discord"
+    DiscordBtn.TextColor3 = PALETTE.TextSecondary
+    DiscordBtn.TextSize = 10.5
+    DiscordBtn.Font = Enum.Font.GothamMedium
+    DiscordBtn.Parent = Footer
+
+    local DiscordCorner = Instance.new("UICorner")
+    DiscordCorner.CornerRadius = UDim.new(0, 6)
+    DiscordCorner.Parent = DiscordBtn
+
+    DiscordBtn.MouseButton1Click:Connect(function()
+        if SetClipboardText(DiscordUrl) then
+            ShowToast("INFO", "Discord Link Copied", "Discord invitation link copied!")
+        end
+    end)
+
+    -- Animate Modal In
+    TweenService:Create(BackgroundDim, TweenInfo.new(0.3), { BackgroundTransparency = 0.5 }):Play()
+    TweenService:Create(MainModal, TweenInfo.new(0.4, Enum.EasingStyle.Quart, Enum.EasingDirection.Out), {
+        GroupTransparency = 0
+    }):Play()
+
+    -- Verification Action
+    VerifyBtn.MouseButton1Click:Connect(function()
+        if IsVerifying then return end
+        local InputKey = KeyInputBox.Text:gsub("%s+", "")
+        if #InputKey == 0 then
+            ValStatus.Text = "● Empty Key"
+            ValStatus.TextColor3 = PALETTE.ErrorRed
+            ShowToast("ERROR", "Input Required", "Please enter your license key.")
+            return
+        end
+
+        IsVerifying = true
+        VerifyBtn.Text = "Verifying..."
+        ValStatus.Text = "● Contacting Server..."
+        ValStatus.TextColor3 = PALETTE.WarningAmber
+
+        task.spawn(function()
+            local Ok, Status, Msg, Data = AuthenticateKey(InputKey)
+            VerifyBtn.Text = "✔  Verify License"
+            IsVerifying = false
+
+            if Ok and Status == "VALID" and Data then
+                SaveKey(InputKey)
+                ValStatus.Text = "● Verified"
+                ValStatus.TextColor3 = PALETTE.SuccessGreen
+                ValExpires.Text = Data.expires_at and "Active" or "Lifetime"
+                ValExpires.TextColor3 = PALETTE.SuccessGreen
+                ShowToast("SUCCESS", "Access Granted", "Server authority granted access.")
+
+                local SessionToken = Data.data and Data.data.session_token or Data.session_token or Data.signature
+                StartSessionGuard(InputKey, GetHwid(), SessionToken, Data.vars or {})
+
+                task.wait(0.7)
+                TweenService:Create(MainModal, TweenInfo.new(0.3, Enum.EasingStyle.Quart, Enum.EasingDirection.In), {
+                    GroupTransparency = 1,
+                    Size = UDim2.fromOffset(450, 400),
+                }):Play()
+                TweenService:Create(BackgroundDim, TweenInfo.new(0.3), { BackgroundTransparency = 1 }):Play()
+                task.wait(0.35)
+                ScreenGui:Destroy()
+                CurrentActiveGui = nil
+
+                LaunchGamePayload(Data.payload)
+            else
+                local Color = STATUS_CONFIG[Status] and STATUS_CONFIG[Status].Color or PALETTE.ErrorRed
+                ValStatus.Text = "● " .. (STATUS_CONFIG[Status] and STATUS_CONFIG[Status].Message or "Denied")
+                ValStatus.TextColor3 = Color
+                ShowToast("ERROR", "Access Denied", Msg or "Verification failed.")
+            end
+        end)
+    end)
+end
+
+--// Entry Point for SairyWare Core
+local function InitializeCore(LaunchOptions)
+    LaunchOptions = LaunchOptions or {}
+    local SavedKey = _G.SairyKey or LoadSavedKey()
+
+    if SavedKey and #SavedKey > 5 then
+        -- Background Verification
+        task.spawn(function()
+            local Ok, Status, Msg, Data = AuthenticateKey(SavedKey)
+            if Ok and Status == "VALID" and Data then
+                local SessionToken = Data.data and Data.data.session_token or Data.session_token or Data.signature
+                StartSessionGuard(SavedKey, GetHwid(), SessionToken, Data.vars or {})
+                LaunchGamePayload(Data.payload)
+            else
+                RenderKeySystemUi(Msg, Status)
+            end
+        end)
+    else
+        RenderKeySystemUi("Please enter your key to continue.", "PROMPT")
+    end
+end
+
+InitializeCore()
+
+return {
+    Version = "3.0.0",
+    Initialize = InitializeCore,
+}
+
